@@ -1,4 +1,4 @@
-# Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+# Hi there, welcome to my Github! <img src="https://github.com/ELATTARIYassine/ELATTARIYassine/blob/master/Hi.gif" width="30px">
 
 <p style="text-align: justify;"> I'm <strong>Yassine</strong>, and I'm a Software Engineer Student at Sultan Moulay Slimane University specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. I like building new stuff and work with other people 😁😁</p>
 
