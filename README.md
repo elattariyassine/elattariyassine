@@ -40,15 +40,12 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 
-<div style="
-    display: flex;
-    justify-content: space-around;
-">
+<div align="center">
   <a href="https://github.com/ELATTARIYassine/NETFLIX-React">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ELATTARIYassine&repo=NETFLIX-React&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
   </a>
-
-  <a href="https://github.com/ELATTARIYassine/react-firebase-slack-clone" style="margin-left:20px">
+  <span>||||||</span>
+  <a href="https://github.com/ELATTARIYassine/react-firebase-slack-clone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ELATTARIYassine&repo=react-firebase-slack-clone&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
   </a>
 </div> 
