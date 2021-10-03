@@ -1,6 +1,6 @@
 # Hi there, welcome to my Github! <img src="https://github.com/ELATTARIYassine/ELATTARIYassine/blob/master/Hi.gif" width="30px">
 
-<p style="text-align: justify;"> I'm <strong>Yassine</strong>, and I'm a Software Engineer Student at Sultan Moulay Slimane University specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. I like building new stuff and work with other people 😁😁</p>
+<p style="text-align: justify;"> I'm <strong>Yassine</strong>, and I'm a Software Engineer Student at Sultan Moulay Slimane University, I specialize in building (and occasionally designing) exceptional websites, applications, and everything in between. I like building new stuff and work with other people 😁😁</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ELATTARIYassine.ELATTARIYassine)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
