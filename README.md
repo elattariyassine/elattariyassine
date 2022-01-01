@@ -1,5 +1,5 @@
 <h1>
-    Hi <img src="https://github.com/ELATTARIYassine/ELATTARIYassine/blob/master/Hi.gif" width="30px">, I'm <a href="https://www.elattariyassine.me/"><strong>Yassine</strong></a>
+    Hi there, I'm <a href="https://www.elattariyassine.me/"><strong>Yassine</strong></a> welcome to my Github <img src="https://github.com/ELATTARIYassine/ELATTARIYassine/blob/master/Hi.gif" width="30px">
 </h1>
 
 <p style="text-align: justify;">
