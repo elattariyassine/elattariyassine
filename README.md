@@ -10,6 +10,8 @@
   </a>
 </p>
 
+<img src="https://i.pinimg.com/originals/8b/a5/49/8ba549fd331eab80350f0fb744256b8f.gif"/>
+
 <p style="text-align: justify;">
 Hello, I'm <a href="https://www.elattariyassine.me/"><strong>Yassine</strong></a>, an experienced and passionate Full Stack Developer with a master's degree in computer systems engineering. I work on designing, building, developing and deploying exceptional applications and everything in between. 
 </p>
