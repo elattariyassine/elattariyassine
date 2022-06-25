@@ -1,6 +1,14 @@
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elattari-yassine/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassineattari64@gmail.com)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ELATTARIYassine)
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/elattari-yassine/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="mailto:yassineattari64@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="https://twitter.com/ELATTARIYassine">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+  </a>
+</p>
 
 <p style="text-align: justify;">
 Hello, I'm <a href="https://www.elattariyassine.me/"><strong>Yassine</strong></a>, an experienced and passionate Full Stack Developer with a master's degree in computer systems engineering. I work on designing, building, developing and deploying exceptional applications and everything in between. 
