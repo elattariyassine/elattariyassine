@@ -10,23 +10,6 @@
   </a>
 </p>
 
-<!-- Cool GIFs :) -->
-
-<!-- <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" /> -->
-
-<!-- <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" /> -->
-
-<!-- <img src="https://i.pinimg.com/originals/fd/1d/d8/fd1dd85d08a0185f202583529fff8a7e.gif"> -->
-
-<!-- <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"/>  -->
-
-
-<!-- <img src="https://i.pinimg.com/originals/87/84/5f/87845f517a80d80475dff4e047b96980.gif"> -->
-
-<img width="1000px" src="https://github.com/ELATTARIYassine/ELATTARIYassine/blob/master/coffe.gif">
-
-
-
 <p style="text-align: justify;">
 Hello, I'm <a href="https://www.elattariyassine.me/"><strong>Yassine</strong></a>, an experienced and passionate Full Stack Developer with a master's degree in computer systems engineering. I work on designing, building, developing and deploying exceptional applications and everything in between. 
 </p>
