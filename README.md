@@ -26,4 +26,6 @@ Hello, I'm <a href="https://www.elattariyassine.me/"><strong>Yassine</strong></a
 
 - 👨‍💻 My personal website is available on **[elattariyassine.me](https://www.elattariyassine.me/)**
 
+- 📝 My personal blog is available on **[blog.elattariyassine.me](https://www.blog.elattariyassine.me/)**
+
 - 📫 How to reach me **yassineattari64@gmail.com**
