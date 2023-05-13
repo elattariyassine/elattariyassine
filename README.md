@@ -1,31 +1,32 @@
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/elattari-yassine/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a>
-  <a target="_blank" href="mailto:yassineattari64@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
-  </a>
-  <a target="_blank" href="https://twitter.com/ELATTARIYassine">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-  </a>
+<p align="center">
+  <samp>
+    <a href="https://www.elattariyassine.me/">me</a> .
+    <a href="https://www.blog.elattariyassine.me/">blog</a> .
+    <a href="https://www.linkedin.com/in/elattari-yassine/">linkedin</a> .
+    <a href="mailto:yassineattari64@gmail.com">email</a> .
+    <a href="https://twitter.com/ELATTARIYassine">tweets</a> 
+  </samp>
 </p>
 
-<p style="text-align: justify;">
-Hello, I'm <a href="https://www.elattariyassine.me/"><strong>Yassine</strong></a>, an experienced and passionate Full Stack Developer with a master's degree in computer systems engineering. I work on designing, building, developing and deploying exceptional applications and everything in between. 
-</p>
+### 𝙇𝙚𝙩'𝙨 𝙋𝙡𝙖𝙮? 𝙎𝙪𝙗𝙢𝙞𝙩 𝙮𝙤𝙪𝙧 𝙋𝙍 𝙬𝙞𝙩𝙝 𝙮𝙤𝙪𝙧 𝙢𝙤𝙫𝙚
 
-## 🙋‍♂️ About Me
+        1    2    3
+    1      |   |
+       +---+---+---+
+    2      | X |
+       +---+---+---+
+    3      |   |
 
-- ⚡ I mostly work with **Laravel & Vue JS & React JS**
+### 𝙃𝙤𝙬 𝙩𝙤 𝙥𝙡𝙖𝙮
 
-- 🔭 I’m currently working on Personal Blog using **Nuxt & `@nuxt/content`**
+Perform the movement above and leave the coordinates below in the table (For example: X in the middle equals **2:2:X**)
 
-- 🌱 I’m currently learning **Nuxt & Docker**
+| Player           | move  | Won | Lost | Tied |
+| ---------------- | :---: | :-: | :--: | :--: |
+| @elattariyassine | 2:2:X |     |      |      |
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+### 𝙬𝙞𝙣𝙣𝙚𝙧𝙨
 
-- 👨‍💻 My personal website is available on **[elattariyassine.me](https://www.elattariyassine.me/)**
-
-- 📝 My personal blog is available on **[blog.elattariyassine.me](https://www.blog.elattariyassine.me/)**
-
-- 📫 How to reach me **yassineattari64@gmail.com**
+| Player    | Game |
+| --------- | :--: |
+| --------- | ---- |
