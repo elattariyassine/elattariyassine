@@ -1,8 +1,16 @@
-<p align="center">
-  <samp>
-    <a href="https://www.elattariyassine.me/">me</a> .
-    <a href="https://www.blog.elattariyassine.me/">blog</a> .
-    <a href="https://www.linkedin.com/in/elattari-yassine/">linkedin</a> .
-    <a href="mailto:yassineattari64@gmail.com">email</a>
-  </samp>
-</p>
+Senior software engineer. I build web products end to end with TypeScript,
+Vue/Nuxt and Laravel, and I like software that is simple, durable and
+respects its users' data.
+
+**Selected work**
+
+- [Life Archive](https://github.com/elattariyassine/life-archive) — local-first archive for personal memories, stored as plain Markdown and photos.
+- [envcheck](https://github.com/elattariyassine/envcheck) — CLI that validates and fixes `.env` files against `.env.example`.
+- [Tab RAM Tracker](https://github.com/elattariyassine/chrome-tab-memory-tracker) — Chrome extension for monitoring per-tab memory usage.
+
+<samp>
+  <a href="https://www.elattariyassine.me/">website</a> ·
+  <a href="https://www.blog.elattariyassine.me/">blog</a> ·
+  <a href="https://www.linkedin.com/in/elattari-yassine/">linkedin</a> ·
+  <a href="mailto:yassineattari64@gmail.com">email</a>
+</samp>
