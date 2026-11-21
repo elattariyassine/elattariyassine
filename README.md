@@ -6,7 +6,7 @@ respects its users' data.
 
 - [Life Archive](https://github.com/elattariyassine/life-archive) — local-first archive for personal memories, stored as plain Markdown and photos.
 - [envcheck](https://github.com/elattariyassine/envcheck) — CLI that validates and fixes `.env` files against `.env.example`.
-- [Tab RAM Tracker](https://github.com/elattariyassine/chrome-tab-memory-tracker) — Chrome extension for monitoring per-tab memory usage.
+- [ATSResume](https://github.com/elattariyassine/atsresume) — ATS-friendly resume builder with one- or two-column layouts, English/French, and clean PDFs.
 
 <samp>
   <a href="https://www.elattariyassine.me/">website</a> ·
